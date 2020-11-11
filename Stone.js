@@ -15,7 +15,7 @@ class Stone {
       
       this.body = Bodies.circle(x,y,radius,options);
       this.radius = radius;
-     this.image = loadImage("stone.png");
+      this.image = loadImage("stone.png");
 
 
      
